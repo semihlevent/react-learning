@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.allowChords": false,
+    "terminal.integrated.shell.windows": "",
+    "terminal.integrated.env.windows": {
+    
+    },
+    "terminal.integrated.automationShell.osx": ""
+}
