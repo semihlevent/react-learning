@@ -3,7 +3,7 @@ import axios from 'axios';
 
 const Search = props => {
     
-    const [term, setTerm] = useState('');
+    const [term, setTerm] = useState('react');
     const [debouncedTerm, setDebouncedTerm] = useState(term);
     const [results, setResults] = useState([]);
 
