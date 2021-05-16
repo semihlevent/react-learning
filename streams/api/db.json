@@ -1,3 +1,37 @@
 {
-    "streams": []
+  "streams": [
+    {
+      "title": "Hitting Up Challenger for the Third Time!",
+      "description": "Oh Yea!",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Welcome to the stream.",
+      "id": 2
+    },
+    {
+      "title": "This stream has a userId attached",
+      "description": "First stream that has userId",
+      "id": 3
+    },
+    {
+      "title": "A Stream With User Id",
+      "description": "This is the real one",
+      "userId": "109540867586729114763",
+      "id": 4
+    },
+    {
+      "title": "New stream",
+      "description": "After this stream is created, you directed to the stream list",
+      "userId": "109540867586729114763",
+      "id": 5
+    },
+    {
+      "title": "A stream on Component Refactor",
+      "description": "This is edited with PATCH request!",
+      "userId": "109540867586729114763",
+      "id": 6
+    }
+  ]
 }
