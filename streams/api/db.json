@@ -26,12 +26,6 @@
       "description": "After this stream is created, you directed to the stream list",
       "userId": "109540867586729114763",
       "id": 5
-    },
-    {
-      "title": "A stream on Component Refactor",
-      "description": "This is edited with PATCH request!",
-      "userId": "109540867586729114763",
-      "id": 6
     }
   ]
 }
